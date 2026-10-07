@@ -1,0 +1,8 @@
+# Deployment exports and database artifacts are not part of the static portfolio site.
+artifacts/
+
+# Local editor and operating-system files.
+.vs/
+.vscode/
+Thumbs.db
+.DS_Store
